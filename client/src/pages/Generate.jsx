@@ -30,7 +30,7 @@ function Generate() {
             navigate(`/editor/${result.data.websiteId}`)
         } catch (error) {
             setLoading(false)
-            setError(error.response.data.message || "something went wrong")
+            setError(error?.response?.data?.message || "Something went wrong. Please try again.")
             console.log(error)
         }
     }
@@ -114,7 +114,7 @@ function Generate() {
                         whileHover={{ scale: 1.05 }}
                         whileTap={{ scale: 0.96 }}
                         onClick={handleGenerateWebsite}
-                        disabled={!prompt.trim() && loading}
+                        disabled={!prompt.trim() || loading}
                         className={`px-14 py-4 rounded-2xl font-semibold text-lg ${prompt.trim() && !loading
                             ? "bg-white text-black"
                             : "bg-white/20 text-zinc-400 cursor-not-allowed"
