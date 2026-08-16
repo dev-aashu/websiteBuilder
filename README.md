@@ -171,17 +171,6 @@ Follow these steps to set up the project locally.
 
 ---
 
-## 👨‍💻 Project Team
-
-| Name | Role | Contact |
-| :--- | :--- | :--- |
-| **Ashish Mahato** | Lead Developer | [ashishmahato650@gmail.com](mailto:ashishmahato650@gmail.com) |
-| **Akash Prajapati** | Developer | [akashboss8969@gmail.com](mailto:akashboss8969@gmail.com) |
-| **Rakesh Singh** | Developer | [dreamliferakesh@gmail.com](mailto:dreamliferakesh@gmail.com) |
-| **Mohit Gupta** | Developer | [mohit.guptakr@gmail.com](mailto:mohit.guptakr@gmail.com) |
-
----
-
 ## 📞 Contact
 
 For any inquiries or feedback regarding this project, please reach out:
