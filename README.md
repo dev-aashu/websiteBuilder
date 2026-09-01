@@ -23,7 +23,6 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#-academic-information">Academic Information</a></li>
     <li><a href="#-project-overview">Project Overview</a></li>
     <li><a href="#-key-features">Key Features</a></li>
     <li><a href="#-tech-stack">Tech Stack</a></li>
@@ -33,19 +32,6 @@
     <li><a href="#-contact">Contact</a></li>
   </ol>
 </details>
-
-## 🎓 Academic Information
-
-This project is submitted in partial fulfillment of the requirements for the **B.Tech Final Year Major Project**.
-
-| Category | Details |
-| :--- | :--- |
-| **University** | Arka Jain University, Jamshedpur |
-| **Department** | Computer Science & Engineering |
-| **Academic Year** | 2022–2026 |
-| **Supervisor** | **Prof. Rashid Anwar** |
-
----
 
 ## 📖 Project Overview
 
